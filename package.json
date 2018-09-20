@@ -1,0 +1,24 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "Liri",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingOfPrussia2155/LIRI-BOT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingOfPrussia2155/LIRI-BOT/issues"
+  },
+  "homepage": "https://github.com/KingOfPrussia2155/LIRI-BOT#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
