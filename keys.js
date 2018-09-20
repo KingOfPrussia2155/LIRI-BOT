@@ -7,6 +7,6 @@ console.log("Keys loaded");
 // Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down below, you'll need them to use the Spotify API and the node-spotify-api package.
 
 exports.spotify = {
-  id: process.env.717a00cb9e484186ac63d0018c2ee575,
-  secret: process.env.57ce23f7fd14c5da5a696e084e24cf
+  id: process.env.SPOTIFY_ID,
+  secret: process.env.SPOTIFY_SECRET
 };
